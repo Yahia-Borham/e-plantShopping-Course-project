@@ -1,4 +1,3 @@
-
 # E-Plant Shopping App
 
 A simple e-commerce application to display JSON-based plant data and enable basic shopping actions.
