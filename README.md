@@ -2,6 +2,7 @@
 # E-Plant Shopping App
 
 A simple e-commerce application to display JSON-based plant data and enable basic shopping actions.
+## Skills
 
 ## Features
 - Created and managed state variables using React-Redux Toolkit for efficient state management.
